@@ -1,3 +1,10 @@
+# Links
+
+- https://github.com/tmux-plugins/tpm
+- https://github.com/tmux-plugins/list
+
+# Install
+
 ```
 sudo apt install yq
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
